@@ -1,0 +1,8 @@
+{
+  "name": "Frontend Academy AI",
+  "description": "An interactive, AI-powered learning platform for aspiring frontend developers. Learn HTML, CSS, JavaScript, and React with AI-generated quizzes, code reviews, and instant explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
